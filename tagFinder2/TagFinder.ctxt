@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=dna
+comment0.target=java.lang.String\ findProtein(java.lang.String)
+comment1.params=dna\ index
+comment1.target=int\ findStopIndex(java.lang.String,\ int)
+comment1.text=\n\ Find\ a\ valid\ stop\ codon\ in\ dna\ that\ occurs\ after\ index.\n\ If\ no\ valid\ stop\ codon\ found,\ return\ dna.length()\n\ @param\ dna\ is\ String\ being\ searched\n\ @param\ index\ is\ index\ where\ search\ starts\n\ @return\ index\ of\ beginnning\ of\ a\ valid\ stop\ codon,\n\ or\ dna.length()\ if\ no\ valid\ codon\n
+comment2.params=dna
+comment2.target=void\ printAll(java.lang.String)
+comment2.text=\n\ Print\ all\ the\ genes\ it\ finds\ in\ DNA.\n\ \n
+comment3.params=dna
+comment3.target=edu.duke.StorageResource\ storeAll(java.lang.String)
+comment4.params=
+comment4.target=void\ testFinder()
+comment4.text=\n\ testerFinder\n
+comment5.params=
+comment5.target=void\ testStorageFinder()
+comment6.params=dna
+comment6.target=float\ cgRatio(java.lang.String)
+comment7.params=sr
+comment7.target=void\ prIntGenes(edu.duke.StorageResource)
+comment8.params=dna
+comment8.target=int\ countCTG(java.lang.String)
+comment9.params=bank
+comment9.target=int\ largestsize(edu.duke.StorageResource)
+numComments=10
